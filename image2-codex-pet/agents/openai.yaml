@@ -1,0 +1,7 @@
+interface:
+  display_name: "Image2 Codex Pet"
+  short_description: "Generate cute Codex desktop pets"
+  default_prompt: "Use $image2-codex-pet to turn this character image into a cute Codex desktop pet with animated action previews."
+
+policy:
+  allow_implicit_invocation: true
