@@ -6,7 +6,7 @@
 2.  把 liuying-kawaii 文件夹放到 .codex/pets/ 文件夹下
 3.  在 codex 外观 宠物选择这个
 
-
+![](./liuying-image2/1.png)
 
 #### Skill
 
@@ -81,7 +81,7 @@ C:\Users\Administrator\.codex\pets\<pet-id>\
 
 ![](./liuying-image2/spritesheet.webp)
 
-![](./liuying-image2/1.png)
+
 
 ![](./liuying-image2/8.png)
 
